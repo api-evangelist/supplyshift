@@ -1,0 +1,16 @@
+generated: '2026-10-24'
+method: none
+source:
+- https://zapier.com/apps/supplyshift/integrations
+- https://n8n.io/integrations/supplyshift/
+- https://composio.dev/toolkits/supplyshift
+- https://monid.ai/tools/supplyshift
+checked:
+- https://composio.dev/toolkits/supplyshift
+- https://monid.ai/tools/supplyshift
+- https://n8n.io/integrations/supplyshift/
+- https://zapier.com/apps/supplyshift/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
